@@ -1,6 +1,6 @@
 # DeMoD Metronome
 
-A professional, robust Python-based metronome system that visualizes the Chaos Game to generate the Sierpinski Triangle fractal, synchronized to a rhythmic beat. This tool uses seed-controlled randomness for reproducible results, supports interactive events (pause, color change, gradient toggle, fullscreen in Pygame), and includes a metronome mode based on BPM for rhythmic progression with a simple integrated clicker (audio beeps).
+Python-based metronome system that visualizes the Chaos Game to generate the Sierpinski Triangle fractal, synchronized to a rhythmic beat. This tool uses seed-controlled randomness for reproducible results, supports interactive events (pause, color change, gradient toggle, fullscreen in Pygame), and includes a metronome mode based on BPM for rhythmic progression with a simple integrated clicker (audio beeps).
 
 Built with Matplotlib (default) or Pygame (for V-sync and smoother rendering), NumPy for computations, and designed for ease of use via command-line arguments. Includes a pure metronome mode for just the clicker without visualization.
 
